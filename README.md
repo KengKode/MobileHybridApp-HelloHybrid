@@ -1,8 +1,7 @@
 MobileHybridApp-HelloHybrid
 ===========================
 
-Starter Kit for in-class Training
-
+Starter Kit for in-class Training  
 
 ### Following these steps
 * Fork this Repo

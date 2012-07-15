@@ -10,4 +10,8 @@ Starter Kit for in-class Training
 * Modify 'index.html'
 * Test with Ripple
 * Build @ build.phonegap.com
-* Celebrate your first Hybrid App <3 Hooray!
+* Celebrate your first Hybrid App <3 Hooray!  
+
+
+# Just Changed
+
